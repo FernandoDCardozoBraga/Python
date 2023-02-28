@@ -3,12 +3,12 @@
 
 #Ejemplo 1
 
-my_list = ['srings', 15, 15.6, True]
+my_list = ['strings', 15, 15.6, True]
 print(my_list)
 
 #Ejemplo 2
 
-my_list = ['srings', 15, 15.6, True]
+my_list = ['strings', 15, 15.6, True]
 my_list.append(6)           #append recibe como parametro el elemento introducido dentro de los parentesis y lo va a agregar
 print(my_list)              # a la lista en la ultima posision 
                             
